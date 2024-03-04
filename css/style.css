@@ -26,12 +26,12 @@ body{
   border-radius: 10%;
 }
 
-.container{
+/*.container{
 max-width: 1440px;
 width: 100%;
 margin: 0 auto;
 padding: 0 2rem;
-}
+}*/
 
 header{
   padding: 1rem 0;
@@ -54,6 +54,7 @@ header h2{
   display: flex;
   align-items: center;
   justify-content: space-between;
+  width: 100%;
 }
 
 .navbar ul{
@@ -125,6 +126,8 @@ header h2{
 
 #image{
   border-radius: 10%;
+  height: 200px;
+  width: 260px;
 }
 
 .below_content{
