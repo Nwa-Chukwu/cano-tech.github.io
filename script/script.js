@@ -1,4 +1,4 @@
-const bodyElem = document.querySelector("body");
+/*const bodyElem = document.querySelector("body");
 const toggleElem = document.querySelector(".fa-sun");
 
 toggleElem.addEventListener("click", ()=>{
@@ -9,4 +9,4 @@ toggleElem.addEventListener("click", ()=>{
   } else {
     toggleElem.classList.replace("fa-moon", "fa-sun")
   }
-});
+});*/
